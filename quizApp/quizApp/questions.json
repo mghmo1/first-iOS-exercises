@@ -1,0 +1,22 @@
+[
+	{ "name": "Outlets",
+		"text": "What is an Outlet?",
+		"answer": "A reference to a view element",
+		"option1": "An event listener for a specific object",
+		"option2": "A visual representation of the application flow"
+	},
+	{ "name": "Segues",
+		"text": "What does a Segue do?",
+		"answer": "Defines the transitions between scenes ",
+		"option1": "Handles the application logic of a view",
+		"option2": "Handles the navigation between views"
+	},
+		{ "name": "Websites",
+		"text": "How can a website be displayed in an app?",
+		"answer": "WebView ",
+		"option1": "MapView",
+		"option2": "Page View Controller"
+	}
+
+
+]
